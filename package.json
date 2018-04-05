@@ -24,9 +24,9 @@
     }
   ],
   "dependencies": {
-    "mimelib": ">=0.2.17",
     "encoding": ">=0.1.4",
-    "mime": "*",
+    "mime": "^2.2.0",
+    "mimelib": ">=0.2.17",
     "uue": "~1.0.0"
   },
   "devDependencies": {
